@@ -1,0 +1,32 @@
+args=commandArgs(trailingOnly=TRUE)
+magnify=4
+data = read.delim(as.character(args[1]), header = F)
+counts= read.delim(as.character(args[2]), header = F)
+outName=as.character(args[3])
+
+names=data[,1]
+ordr=order(data[,2])
+ordr2=order(counts[,2])
+sigPoints=c(which(data[,1] == "CTCF" | data[,1] == "Klf7" | data[,1] == "EGR1"))
+#sigPoints2=tail(ordr,3)
+ESR1=which(data[,1] == "ESR1")
+hipoints=which(counts[,2] > 100)
+midPoints=which(counts[,2] <= 100 & counts[,2] > 25)
+loPoints=which(counts[,2] < 25)
+
+png(file=paste("scatterplot_", outName, ".png", sep=""), height = 2000, width = 2000, res = 300)
+par(mar=c(4.8,4.6,1.35,1.2), cex.axis = 2, cex.main=2, cex.sub = 1.8, cex.lab = 2, mgp = c(3,1.1,0), mex = 1.5)
+plot(data[,2], data[,3], xlim = c(-.35,1), ylim = c(0,1), xlab = paste("at ", outName, " accessible CpGs", sep = ""), ylab = paste("at ",  outName, " inaccessible CpGs", sep=""), main = expression(paste(Delta, "me (E16.5m-E13.5m)", sep="")), col="white", lwd=magnify, lwd.tick=2)
+abline(0,1,lwd=2)
+box(lwd=2)
+points(data[loPoints,2], data[loPoints,3], col="grey", cex = magnify*.25, lwd=2)
+points(data[midPoints,2], data[midPoints,3], col="grey", cex = magnify*.5, lwd=2)
+points(data[hipoints,2], data[hipoints,3], col="red", cex = magnify*1, lwd=2)
+
+#points(data[sigPoints,2], data[sigPoints,3], col = "blue", pch = 19, cex = 1)
+#text(data[sigPoints,2], data[sigPoints,3], labels = names[sigPoints], cex = 1.2)
+##points(data[sigPoints2,2], data[sigPoints2,3], col = "red", pch = 19, cex = 1)
+#points(data[ESR1,2], data[ESR1,3], col = "red", pch = 19, cex = 1)
+#text(data[sigPoints2,2], data[sigPoints2,3], labels = names[sigPoints2], cex = 1.2)
+legend("topleft", legend=paste(c("< 25", "25-100", "> 100"), "DNAse-Hi sites"), col=c("grey", "grey", "red"), pch=c(1,1,1), pt.cex=magnify*c(.25,.5,1), cex=2, pt.lwd=2)
+dev.off()
