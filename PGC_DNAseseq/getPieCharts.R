@@ -1,0 +1,5 @@
+args=commandArgs(trailingOnly=TRUE)
+x=read.delim(as.character(args[1]), sep=" ", header=F)
+png(paste("pieChart_E14.5mdistalHi_ICMfpkm", ".png", sep=""), height = 2000, width = 2000, res=300)
+pie(x[,1], labels=paste(x[,2], " (", x[,1], ")", sep=""), col=c("white", "pink", "red"), radius = 0.6)
+dev.off()
