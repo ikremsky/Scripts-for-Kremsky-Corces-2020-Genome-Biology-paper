@@ -1,0 +1,52 @@
+GSM3020516 	WT Adult Intestine ATAC Rep1
+GSM3020517 	WT Adult Intestine ATAC Rep2
+GSM3020526 	WT Adult Intestine ChIP INPUT
+GSM3020527 	Eed KO Day9 Intestine ChIP INPUT
+GSM3020528 	WT Adult Intestine H3K27ac ChIP Rep1
+GSM3020529 	WT Adult Intestine H3K27ac ChIP Rep2
+GSM3020530 	WT Adult Intestine H3K27ac ChIP Rep3
+GSM3020531 	Eed KO Day9 Adult Intestine H3K27ac ChIP Rep1
+GSM3020532 	Eed KO Day9 Adult Intestine H3K27ac ChIP Rep2
+GSM3020533 	Eed KO Day9 Adult Intestine H3K27ac ChIP Rep3
+GSM3020534 	Eed KO Day14 Adult Intestine H3K27ac ChIP Rep1
+GSM3020535 	Eed KO Day14 Adult Intestine H3K27ac ChIP Rep2
+GSM3020536 	WT Macrophage H3K27ac ChIP Rep1
+GSM3020537 	WT Macrophage H3K27ac ChIP Rep2
+GSM3020538 	Eed KO Macrophage H3K27ac ChIP Rep1
+GSM3020539 	Eed KO Macrophage H3K27ac ChIP Rep2
+GSM3020540 	WT Adult Intestine H3K4me1 ChIP Rep1
+GSM3020541 	WT Adult Intestine H3K4me1 ChIP Rep2
+GSM3020542 	Eed KO Day9 Adult Intestine H3K4me1 ChIP Rep1
+GSM3020543 	Eed KO Day14 Adult Intestine H3K4me1 ChIP Rep1
+GSM3020544 	E16.5 Intestine H3K4me1 ChIP Rep1
+GSM3020545 	Eed KO Day9 Adult Intestine H3K4me3 ChIP Rep1
+GSM3020546 	Eed KO Day9 Adult Intestine H3K4me3 ChIP Rep2
+GSM3020547 	Eed KO Day14 Adult Intestine H3K4me3 ChIP Rep1
+GSM3020548 	Eed KO Day14 Adult Intestine H3K4me3 ChIP Rep2
+GSM3020550 	WT Adult Intestine H3K27me1 ChIP Rep2
+GSM3020551 	WT Adult Intestine H3K27me2 ChIP Rep1
+GSM3020552 	WT Adult Intestine H3K27me2 ChIP Rep2
+GSM3020553 	WT Adult Intestine Suz12 ChIP Rep1
+GSM3020554 	WT Adult Intestine Suz12 ChIP Rep2
+GSM3020555 	WT Adult Intestine Foxa1 ChIP Rep1
+GSM3020556 	WT Adult Intestine Foxa1 ChIP Rep2
+GSM3020557 	Eed KO Day9 Adult Intestine Foxa1 ChIP Rep1
+GSM3020558 	Eed KO Day11 Adult Intestine Foxa1 ChIP Rep1
+GSM3020559 	Eed KO Day11 Adult Intestine Foxa1 ChIP Rep2
+GSM3020560 	WT Adult Intestine Foxg1 ChIP Rep1
+GSM3020561 	Eed KO Day9 Adult Intestine Foxg1 ChIP Rep1
+GSM3020562 	Eed KO Day11 Adult Intestine Foxg1 ChIP Rep1
+GSM3020563 	E12.5 Intestinal Epithelium WGBS
+GSM3020564 	E16.5 Intestinal Epithelium WGBS
+GSM3020565 	WT Adult Intestinal Epithelium WGBS
+GSM3020566 	WT Macrophage WGBS
+GSM3020567 	E11.5_Intestine_RNA Biological Replicate 1
+GSM3020568 	E11.5_Intestine_RNA Biological Replicate 2
+GSM3020575 	Eed_KO_Day11_Adult_Intestine_RNA Biological Replicate 1
+GSM3020576 	Eed_KO_Day11_Adult_Intestine_RNA Biological Replicate 2
+GSM3020577 	Eed_KO_Day14_Adult_Intestine_RNA Biological Replicate 1
+GSM3020578 	Eed_KO_Day14_Adult_Intestine_RNA Biological Replicate 2
+GSM3040277 	Eed KO Day9 Adult Intestine H3K4me1 ChIP Rep2
+GSM3040278 	Eed KO Day14 Adult Intestine H3K4me1 ChIP Rep2
+GSM3040279 	E16.5 Intestine H3K4me1 ChIP Rep2
+GSM3040280 	Eed KO Day9 Adult Intestine Foxa1 ChIP Rep2

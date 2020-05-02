@@ -1,0 +1,37 @@
+GSM2029791 	1Cell_1_Dnase-seq
+GSM2029792 	1Cell_2_Dnase-seq
+GSM2029793 	2Cell_1_Dnase-seq
+GSM2029794 	2Cell_2_Dnase-seq
+GSM2029795 	4Cell_1_Dnase-seq
+GSM2029796 	4Cell_2_Dnase-seq
+GSM2029797 	8Cell_1_Dnase-seq
+GSM2029798 	8Cell_2_Dnase-seq
+GSM2029799 	Morula_1_Dnase-seq
+GSM2029800 	Morula_2_Dnase-seq
+GSM2029801 	30-cell ESC_Dnase-seq
+GSM2029802 	100-cell ESC_Dnase-seq
+GSM2029803 	2-Cell siControl_1_Dnase-seq
+GSM2029804 	2-Cell siControl_2_Dnase-seq
+GSM2029805 	2-Cell Nfya-KD_1_Dnase-seq
+GSM2029806 	2-Cell Nfya-KD_2_Dnase-seq
+GSM2029807 	8-Cell siControl_1_Dnase-seq
+GSM2029808 	8-Cell siControl_2_Dnase-seq
+GSM2029809 	8-Cell Oct4-KD_1_Dnase-seq
+GSM2029810 	8-Cell Oct4-KD_2_Dnase-seq
+GSM2029811 	RNA-seq 1-Cell
+GSM2029812 	RNA-seq 2-Cell siControl_1
+GSM2029813 	RNA-seq 2-Cell siControl_2
+GSM2029814 	RNA-seq 2-Cell Nfya-KD_1
+GSM2029815 	RNA-seq 2-Cell Nfya-KD_2
+GSM2183029 	GV Oocyte_14d_1_Dnase-seq
+GSM2183030 	GV Oocyte_14d_2_Dnase-seq
+GSM2183031 	Sperm_1_Dnase-seq
+GSM2183032 	Sperm_2_Dnase-seq
+GSM2183033 	Pronuclei_Mat_PN3_1_Dnase-seq
+GSM2183034 	Pronuclei_Mat_PN3_2_Dnase-seq
+GSM2183035 	Pronuclei_Pat_PN3_1_Dnase-seq
+GSM2183036 	Pronuclei_Pat_PN3_2_Dnase-seq
+GSM2183037 	Pronuclei_Mat_PN5_1_Dnase-seq
+GSM2183038 	Pronuclei_Mat_PN5_2_Dnase-seq
+GSM2183039 	Pronuclei_Pat_PN5_1_Dnase-seq
+GSM2183040 	Pronuclei_Pat_PN5_2_Dnase-seq
