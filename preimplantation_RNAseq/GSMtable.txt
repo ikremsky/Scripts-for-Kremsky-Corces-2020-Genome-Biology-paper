@@ -1,0 +1,17 @@
+GSM1845292 	RNA-Seq Growing_oocyte_10days
+GSM1845293 	RNA-Seq Growing_oocyte_14days
+GSM1845294 	RNA-Seq GV_8weeks
+GSM1845295 	RNA-Seq MII_oocyte_rep1
+GSM1845296 	RNA-Seq MII_oocyte_rep2
+GSM1845297 	RNA-Seq zygote_PN5_rep1
+GSM1845298 	RNA-Seq zygote_PN5_rep2
+GSM1845299 	RNA-Seq 2cell_early_rep1
+GSM1845300 	RNA-Seq 2cell_early_rep2
+GSM1845301 	RNA-Seq 2cell_late_rep1
+GSM1845302 	RNA-Seq 2cell_late_rep2
+GSM1845303 	RNA-Seq 4cell_rep1
+GSM1845304 	RNA-Seq 4cell_rep2
+GSM1845305 	RNA-Seq 8cell_rep1
+GSM1845306 	RNA-Seq 8cell_rep2
+GSM1845307 	RNA-Seq ICM rep1
+GSM1845308 	
